@@ -81,16 +81,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikshant363/dikshant363/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikshant363/dikshant363/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/dikshant363/dikshant363/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
   <sub>Engineered by <a href="https://github.com/dikshant363">dikshant363</a></sub>
 </div>
